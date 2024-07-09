@@ -1,4 +1,4 @@
 # Distribution / packaging
 node_modules
-
-
+package-lock.json
+final_project/package-lock.json
